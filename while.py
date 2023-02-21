@@ -11,7 +11,7 @@ while a<b: #false
 print("Nothing do!")
 
 #break and continue
-for va in "winhtut":
+for va in "hikoko":
     if va == "i":
         break
     print(va)
